@@ -1,0 +1,4 @@
+record_id,farmer_id,crop,season,area_ha,yield_tons,harvest_date,district
+Y001,F001,Maize,2024/25,1.5,2.1,2025-04-15,Goromonzi
+Y002,F002,Maize,2024/25,2.0,3.0,2025-04-20,Mazowe
+Y003,F003,Sorghum,2024/25,1.0,1.1,2025-04-10,Chiredzi
